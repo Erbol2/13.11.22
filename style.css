@@ -13,3 +13,9 @@ nav li {
   list-style-type: none;
   cursor: pointer;
 }
+ol li {
+  list-style-type: none;
+  padding-top: 20px;
+  text-align: left;
+}
+
