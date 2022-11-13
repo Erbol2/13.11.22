@@ -1,3 +1,15 @@
 * {
 box-sizing: border-box;
+margin: 0;
+}
+nav {
+  display: flex;
+  background-color: blue;
+  justify-content: space-around;
+  height: 30px;
+}
+nav li {
+  padding: 4px;
+  list-style-type: none;
+  cursor: pointer;
 }
