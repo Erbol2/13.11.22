@@ -48,4 +48,6 @@ button:hover {
 button:active {
   background-color: rgba(81, 181, 81, 0.597);
 }
-
+button:focus {
+  background-color: yellowgreen;
+}
