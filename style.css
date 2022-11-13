@@ -21,5 +21,12 @@ ol li {
 div {
   display: flex;
   padding: 25px;
+  padding-left: 10px;
+}
+ol {
+  padding-left: 20px;
+}
+p {
+  padding-left: 29px;
 }
 
