@@ -40,8 +40,9 @@ button {
 }
 button a {
   text-decoration: none;
-  color: white;
+  color: green;
 }
 button:hover {
   background-color: white;
 }
+
