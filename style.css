@@ -36,9 +36,11 @@ button {
   border-color: greenyellow;
   background-color: rgb(132, 206, 20);
   cursor: pointer;
+ 
 }
 button a {
   text-decoration: none;
+  color: white;
 }
 button:hover {
   background-color: white;
