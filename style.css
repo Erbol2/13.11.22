@@ -37,4 +37,7 @@ button {
   background-color: rgb(132, 206, 20);
   cursor: pointer;
 }
+button a {
+  text-decoration: none;
+}
 
