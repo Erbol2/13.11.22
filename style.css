@@ -18,4 +18,8 @@ ol li {
   padding-top: 20px;
   text-align: left;
 }
+div {
+  display: flex;
+  padding: 25px;
+}
 
